@@ -1,0 +1,2 @@
+# arx
+grails test
